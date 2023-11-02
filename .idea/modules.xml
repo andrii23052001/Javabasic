@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AIT-JAVA-2023.iml" filepath="$PROJECT_DIR$/AIT-JAVA-2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/les32/HwInterface/HwInterface.iml" filepath="$PROJECT_DIR$/les32/HwInterface/HwInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LES27HW/LES27HW.iml" filepath="$PROJECT_DIR$/LES27HW/LES27HW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Les37_Arrays/Les37_Arrays.iml" filepath="$PROJECT_DIR$/Les37_Arrays/Les37_Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/genericIMPORTANT/genericIMPORTANT.iml" filepath="$PROJECT_DIR$/genericIMPORTANT/genericIMPORTANT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/les13/les13.iml" filepath="$PROJECT_DIR$/les13/les13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/les14/les14.iml" filepath="$PROJECT_DIR$/les14/les14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/les16/les16.iml" filepath="$PROJECT_DIR$/les16/les16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/les19/les19.iml" filepath="$PROJECT_DIR$/les19/les19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/les19HW/les19HW.iml" filepath="$PROJECT_DIR$/les19HW/les19HW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/les20 les 21/les20.iml" filepath="$PROJECT_DIR$/les20 les 21/les20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/les22OOP/les22OOP.iml" filepath="$PROJECT_DIR$/les22OOP/les22OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/les23_Supermarket/les23_Supermarket.iml" filepath="$PROJECT_DIR$/les23_Supermarket/les23_Supermarket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/les24/les24.iml" filepath="$PROJECT_DIR$/les24/les24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/les25/les25.iml" filepath="$PROJECT_DIR$/les25/les25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/les26/les26.iml" filepath="$PROJECT_DIR$/les26/les26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/les27UnitTest/les27.iml" filepath="$PROJECT_DIR$/les27UnitTest/les27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/les28/les28.iml" filepath="$PROJECT_DIR$/les28/les28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/les29HW/les29HW.iml" filepath="$PROJECT_DIR$/les29HW/les29HW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/les29SrringBuilder/les29SrringBuilder.iml" filepath="$PROJECT_DIR$/les29SrringBuilder/les29SrringBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/les30/les30.iml" filepath="$PROJECT_DIR$/les30/les30.iml" />
+      <module fileurl="file://$PROJECT_DIR$/les32/les33.iml" filepath="$PROJECT_DIR$/les32/les33.iml" />
+      <module fileurl="file://$PROJECT_DIR$/les34_Comporator/les34.iml" filepath="$PROJECT_DIR$/les34_Comporator/les34.iml" />
+      <module fileurl="file://$PROJECT_DIR$/les35_arraysort/les35_arraysort.iml" filepath="$PROJECT_DIR$/les35_arraysort/les35_arraysort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/les36_Wardrobe/les36_Wardrobe.iml" filepath="$PROJECT_DIR$/les36_Wardrobe/les36_Wardrobe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/les38ENUM/les37ENUM.iml" filepath="$PROJECT_DIR$/les38ENUM/les37ENUM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/les39/les39.iml" filepath="$PROJECT_DIR$/les39/les39.iml" />
+      <module fileurl="file://$PROJECT_DIR$/les40/les40.iml" filepath="$PROJECT_DIR$/les40/les40.iml" />
+      <module fileurl="file://$PROJECT_DIR$/less25/less25.iml" filepath="$PROJECT_DIR$/less25/less25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zalupa/zalupa.iml" filepath="$PROJECT_DIR$/zalupa/zalupa.iml" />
+    </modules>
+  </component>
+</project>
