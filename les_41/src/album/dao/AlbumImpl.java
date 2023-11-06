@@ -77,18 +77,24 @@ public class AlbumImpl implements Album {
         return null;
     }
 
-    @Override
+
+
+  @Override
     public Photo[] getAllPhotoFromAlbum(int albumId) {
         return findByPredicate (p->p.getAlbumid=albumId);
     }
 
-    private Photo[]findByPredicate(Predicate<Photo>predicate){
+
+
+
+private Photo[]findByPredicate(Predicate<Photo>predicate){
         Photo[]res = new Photo[size];
         int j =0; //это у нас счетчик найденых фото в альбоме
         for (int i = 0; i < ; i++) {
-            
+
         }
     }
+
     @Override
     public Photo[] getPhotoBetweenDate(LocalDate dateFrom, LocalDate dateTo) {
         return new Photo[0];
@@ -98,4 +104,6 @@ public class AlbumImpl implements Album {
     public int size() {
         return size;
     }
+
+
 }
