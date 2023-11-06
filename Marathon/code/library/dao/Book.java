@@ -1,4 +1,4 @@
-package library.dao.model;
+package library.dao;
 /*
  Шаг 1 - повторите самостоятельно все те шаги, которые мы делали в классе на примере класса Book и интерфейса Library.
 
@@ -9,7 +9,6 @@ package library.dao.model;
          найти книгу;
          кол-во книг;
          напечатать список книг.
-
 */
 
 public class Book {
@@ -53,4 +52,20 @@ public class Book {
         this.year = year;
     }
 
+    public Book(long isbn, String author, String title, int year) {
+        this.isbn = isbn;
+        this.author = author;
+        this.title = title;
+        this.year = year;
+    }
+
+    @Override
+    public String toString() {
+        return "Book{" +
+                "isbn=" + isbn +
+                ", author='" + author + '\'' +
+                ", title='" + title + '\'' +
+                ", year=" + year +
+                '}';
+    }
 }
