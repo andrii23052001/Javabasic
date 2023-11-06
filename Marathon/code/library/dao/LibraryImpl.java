@@ -1,5 +1,7 @@
 package library.dao;
 
+import library.dao.model.Book;
+
 public class LibraryImpl implements Library {
     Book[] books;
 

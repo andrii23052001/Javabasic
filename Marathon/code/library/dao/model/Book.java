@@ -1,4 +1,4 @@
-package library.dao;
+package library.dao.model;
 /*
  Шаг 1 - повторите самостоятельно все те шаги, которые мы делали в классе на примере класса Book и интерфейса Library.
 

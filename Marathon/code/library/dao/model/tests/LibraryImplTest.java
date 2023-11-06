@@ -1,5 +1,8 @@
-package library.dao;
+package library.dao.model.tests;
 
+import library.dao.Library;
+import library.dao.LibraryImpl;
+import library.dao.model.Book;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
