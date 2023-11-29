@@ -1,4 +1,4 @@
-package dao.model.tests;
+package dao.model;
 
 import dao.model.Employee;
 

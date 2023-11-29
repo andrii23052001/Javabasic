@@ -5,6 +5,7 @@ import dao.CompanyTreeSetImpl;
 import dao.model.Employee;
 import dao.model.Manager;
 import dao.model.SalesManager;
+import dao.model.Worker;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
