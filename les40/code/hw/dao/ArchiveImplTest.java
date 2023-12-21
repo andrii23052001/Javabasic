@@ -3,7 +3,6 @@ package hw.dao;
 import hw.Documents;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.*;
 
 import java.time.LocalDateTime;
 
@@ -27,7 +26,7 @@ class ArchiveImplTest {
 
     @Test
     void addDocument() {
-        assertFalse(archives.clone(););
+
         
     }
 

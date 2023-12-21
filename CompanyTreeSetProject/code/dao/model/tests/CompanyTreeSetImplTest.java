@@ -17,7 +17,6 @@ class CompanyTreeSetImplTest {
 
     Company company;
     Employee[] e;
-
     // добавить comparator по id для сортировки массивов перед assertArrayEquals
 
  /*   Comparator<Employee> comparator=new Comparator<Employee>() {
